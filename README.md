@@ -1,4 +1,4 @@
-# Final-Project-Transforming-and-Analyzing-Data-with-SQL
+# DataCart- SQL Analytics & Modeling Project
 
 ## Project/Goals
 The goal of this project was to perform data cleaning, transformation, and quality assurance on a complex eCommerce dataset using SQL. The project also involved analyzing the dataset through SQL-based exploration.
@@ -33,3 +33,4 @@ Finally, the overall QA process was quite tedious and time consuming, which requ
 
 ## Future Goals
 If I had more time, I would use a visualization tool to explain the insights (i.e creating a dashboard using Tableau or Power BI). Further, if I was part of this team, I would integrate other operational sources (i.e marketing, sales, etc) to correlate with the data and hopefully increase overall revenue. 
+
